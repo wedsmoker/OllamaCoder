@@ -26,7 +26,7 @@ First, you'll need to install Ollama, which is what lets you run language models
 
 ### 2. Get the Code
 
-*   clone the github repo
+*   download the zip and extract it somewhere
 
 ### 3. Set up the Environment
 
